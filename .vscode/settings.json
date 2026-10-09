@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": [
+        "labs"
+    ],
+    "java.project.referencedLibraries": [
+        "/Users/main/Downloads/Pokemon.jar"
+    ]
+}
