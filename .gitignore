@@ -1,16 +1,5 @@
-# Системные файлы macOS
 .DS_Store
-
-# Скомпилированные Java-файлы
 *.class
-
-# Отладочные файлы C++
 *.dSYM/
-
-# Python
 __pycache__/
 *.pyc
-
-# Скомпилированные C++ программы
-/.vscode/main
-/.vscode/hello
