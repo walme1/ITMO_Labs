@@ -3,7 +3,6 @@
 #Date = 16.10.2026
 import re
 text = str(input())
-#А ты знал, что ВТ – лучшая кафедра в ИТМО?
 match = re.findall(r'\bВТ\b(?:\W+\w+){,4}\W+\bИТМО\b', text)
 result = []
 for pattern in match:
